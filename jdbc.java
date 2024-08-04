@@ -1,1 +1,7 @@
-conn
+//conn
+
+
+class
+  {
+  int a=10;
+  }
